@@ -15,7 +15,12 @@
 <h3 align="left">🛠 My languages and tools</h3>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,python,bash,powershell,git,github" height="40" alt="Java, Android Studio, Python, Bash, PowerShell, Git, GitHub" />
+  <br />
   <img src="https://skillicons.dev/icons?i=firebase,react,js,mysql,html,css,nodejs,express" height="40" alt="Firebase, React, JavaScript, MySQL, HTML5, CSS3, Node.js, Express" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="25" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="25" alt="Gemini" />
 </div>
 
 <h3 align="left">🔥 My stats</h3>
